@@ -1,0 +1,29 @@
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    padding: 20px ;
+    border: 10px solid black;
+  }
+  p{
+    padding: 0;
+    margin: 0;
+  
+  }
+  .two{
+    width: 200px;
+    height: 200px;
+    background-color:gold ;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    margin-left:260px;
+  }
+  .three{
+    width: 200px;
+    height: 200px;
+    background-color:indianred ;
+    border: 10px solid black;
+    margin-left: 40px;
+  }
